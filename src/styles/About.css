@@ -1,0 +1,28 @@
+.about-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 40px;
+    
+}
+
+.about{
+    display: flex;
+    margin:20px;
+    flex: 1;
+    margin-top: 100px;
+    
+}
+.about img{
+    height: 300px;
+    width: 250px;
+   
+}
+.about p{
+    text-align: justify;
+    padding-left: 20px;
+}
+.about div{
+    display: flex;
+    flex-direction: column;
+}

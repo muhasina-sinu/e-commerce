@@ -1,0 +1,40 @@
+.container{
+   
+    padding-top: 20px;
+}
+.card {
+  height: 560px;
+  width: 250px;
+  border:1px solid rgb(15, 17, 17,0.1);
+  font-family: "Amazon Ember", Arial, sans-serif;
+  margin-bottom: 20px;
+}
+.cardbody{
+    padding:5px;
+}
+.cardbody h5{
+  font-size: 16px;
+  padding-top: 10px;
+  font-weight: 600;
+  
+}
+.title{
+  text-decoration: none;
+  color: black;
+}
+.title:hover{
+  color:coral;
+}
+
+.imagediv {
+  background-color: #f7f7f7;
+}
+.image {
+  width: 250px;
+  height: 300px;
+  object-fit: contain;
+}
+
+.rating{
+    color:#F4A340;
+}
